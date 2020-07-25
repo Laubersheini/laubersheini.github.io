@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+#David Laubersheimer
+## Prodjekts
 
-You can use the [editor on GitHub](https://github.com/Laubersheini/laubersheini.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A list of my projects
+### Johnny Simulator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A program that simulates a von Neumann architecture computer.
+The programm is hosted by inf-schule.de and can be found [here](https://inf-schule.de/content/7-rechner/3-johnny/johnny2/)
 
-### Markdown
+The original version of the program was developed by Peter Dauscher. The manuals for the original version should also be usable for the web based version. Manuals are available in English, German, Italian and French. They can be found on the original projects [Sourceforge Page](https://sourceforge.net/projects/johnnysimulator/files/Manuals%20%28Multi-Lang%29/).The german digital schoolbook inf.schule.de also has a chapter about the simulator. https://www.inf-schule.de/rechner/johnny
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The sourcecode of the web-based version can be found at github.com/laubersheini/johnny
 
-```markdown
-Syntax highlighted code block
+### Music visualizer
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Laubersheini/laubersheini.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A small program that uses the Web audio api to show a visualization of the input of the microphone.
+laubersheini.github.io/musicVisualizer
