@@ -10,9 +10,9 @@ The programm is hosted by inf-schule.de and can be found [here](https://inf-schu
 
 The original version of the program was developed by Peter Dauscher. The manuals for the original version should also be usable for the web based version. Manuals are available in English, German, Italian and French. They can be found on the original projects [Sourceforge Page](https://sourceforge.net/projects/johnnysimulator/files/Manuals%20%28Multi-Lang%29/).The german digital schoolbook inf.schule.de also has a chapter about the simulator. https://www.inf-schule.de/rechner/johnny
 
-The sourcecode of the web-based version can be found at [github.com/laubersheini/johnny](github.com/laubersheini/johnny)
+The sourcecode of the web-based version can be found at [github.com/laubersheini/johnny](www.github.com/laubersheini/johnny)
 
 ### Music visualizer
 
 A small program that uses the Web audio api to show a visualization of the input of the microphone.
-[laubersheini.github.io/musicVisualizer](laubersheini.github.io/musicVisualizer)
+[laubersheini.github.io/musicVisualizer](www.laubersheini.github.io/musicVisualizer)
