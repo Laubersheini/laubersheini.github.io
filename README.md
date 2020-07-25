@@ -15,4 +15,4 @@ The sourcecode of the web-based version can be found at [github.com/laubersheini
 ### Music visualizer
 
 A small program that uses the Web audio api to show a visualization of the input of the microphone.
-[laubersheini.github.io/musicVisualizer](https://www.laubersheini.github.io/musicVisualizer)
+[laubersheini.github.io/musicVisualizer](https://laubersheini.github.io/musicVisualizer/)
