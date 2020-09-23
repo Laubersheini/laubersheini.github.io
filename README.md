@@ -14,3 +14,8 @@ The sourcecode of the web-based version can be found at [github.com/laubersheini
 
 A small program that uses the Web audio api to show a visualization of the input of the microphone.
 [laubersheini.github.io/musicVisualizer](https://laubersheini.github.io/musicVisualizer/)
+
+### Asciiquarium
+
+
+A reimplementation of the original perl based version by Kirk Baucom The original can be found [here](https://robobunny.com/projects/asciiquarium/html/). The web based reimplementation can be found at [laubersheini-github.io/asciiquarium](laubersheini-github.io/asciiquarium)
