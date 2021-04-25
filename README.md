@@ -22,6 +22,6 @@ A small program that uses the Web audio api to show a visualization of the input
 
 A reimplementation of the original perl based version by Kirk Baucom The original can be found [here](https://robobunny.com/projects/asciiquarium/html/). The web based reimplementation can be found at [laubersheini.github.io/asciiquarium](https://laubersheini.github.io/asciiquarium)
 
-###Particle effects
+### Particle effects
 
 A simple 2d simulation of paticles that is renderd to an HTML5 canvas. The programm is hosted at [aubersheini.github.io/particle_effects/](https://laubersheini.github.io/particle_effects/)
