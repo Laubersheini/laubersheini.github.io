@@ -1,4 +1,4 @@
-## projects
+## Projects
 
 Here are some of the programms i wrote that were actually good enough to be published.
 
@@ -24,4 +24,4 @@ A reimplementation of the original perl based version by Kirk Baucom The origina
 
 ### Particle effects
 
-A simple 2d simulation of paticles that is renderd to an HTML5 canvas. The programm is hosted at [aubersheini.github.io/particle_effects/](https://laubersheini.github.io/particle_effects/)
+A simple 2d simulation of paticles that is renderd to an HTML5 canvas. The programm is hosted at [laubersheini.github.io/particle_effects/](https://laubersheini.github.io/particle_effects/)
